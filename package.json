@@ -1,0 +1,24 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lobungen/challenge7.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/lobungen/challenge7/issues"
+  },
+  "homepage": "https://github.com/lobungen/challenge7#readme",
+  "description": ""
+}
